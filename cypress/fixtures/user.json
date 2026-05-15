@@ -1,0 +1,13 @@
+{
+  "email": "teste@gmail.com",
+  "name": "Fulano da Silva",
+  "password": "teste@teste",
+  "firstName": "Fulano",
+  "lastName": "Da Silva",
+  "company": "Accenture do Brasil",
+  "state": "São Paulo",
+  "city": "São Paulo",
+  "zipCode": "02990020",
+  "mobileNumber": "11982358615"
+
+}
